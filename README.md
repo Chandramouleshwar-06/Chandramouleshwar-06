@@ -1,6 +1,6 @@
 <h1 align="left">Chandramouleshwar CR</h1>
 
-Currently building [Gain+](https://github.com/Chandramouleshwar-06/Gain-plus), an offline-first fitness app in Flutter.
+Currently building Gain+, an offline-first fitness app in Flutter.
 
 <br>
 
@@ -9,10 +9,10 @@ Currently building [Gain+](https://github.com/Chandramouleshwar-06/Gain-plus), a
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Chandramouleshwar-06/Gain-plus">Gain+</a></h4>
+      <h4>Gain+</h4>
       <p>Offline-first Android app for workouts, nutrition and recovery. Local SQLite with optional Firestore sync, Health Connect, a home-screen widget, programs, progressive-overload suggestions and progress charts.</p>
       <p><sub>Flutter · Dart · SQLite · Firebase · Kotlin</sub></p>
-      <p><sub><a href="https://github.com/Chandramouleshwar-06/Gain-plus/releases/latest">Download APK</a></sub></p>
+      <p><sub>Coming soon to Google Play</sub></p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Chandramouleshwar-06/realm-of-legends">Realm of Legends</a></h4>
