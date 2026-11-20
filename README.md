@@ -15,9 +15,10 @@ Currently building [Gain+](https://github.com/Chandramouleshwar-06/Gain-plus), a
       <p><sub><a href="https://github.com/Chandramouleshwar-06/Gain-plus/releases/latest">Download APK</a></sub></p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Chandramouleshwar-06/GAME">Realm of Legends</a></h4>
+      <h4><a href="https://github.com/Chandramouleshwar-06/realm-of-legends">Realm of Legends</a></h4>
       <p>Browser fantasy RPG. Characters are rolled on a wheel of fate, then fight AI opponents in turn-based combat with abilities, cooldowns, fatal flaws, loot and quests.</p>
       <p><sub>React · JavaScript · Tailwind CSS · Vite</sub></p>
+      <p><sub><a href="https://chandramouleshwar-06.github.io/realm-of-legends/">Play in the browser</a></sub></p>
     </td>
   </tr>
 </table>
